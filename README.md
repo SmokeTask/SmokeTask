@@ -12,5 +12,3 @@
 ![TERMINAL](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmokeTask&show_icons=true&theme=merko)
-
-![Snake animation](https://github.com/SmokeTask/SmokeTask/blob/output/github-contribution-grid-snake.svg)
